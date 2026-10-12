@@ -79,4 +79,4 @@ Data is temporary and normally resets when the application stops.
 
 ## Author
 
-Sanjai R
+Ilamurugan N
